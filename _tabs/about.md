@@ -15,7 +15,7 @@ My goal for this blog is to really document everything that I've learned and eve
 
 ### Why *ZeroBunks*?
 
-The blog's name is inspired by my two dogs, *Bunky* and *Zero*, who are a constant source of inspiration for me. Their neverending curiosity and playful natureperfectly reflect the spirit of this blog. I couldn’t think of a better name than one that honors them. <br>
+The blog's name is inspired by my two dogs, *Bunky* and *Zero*, who are a constant source of inspiration for me. Their neverending curiosity and playful nature perfectly reflect the spirit of this blog. I couldn’t think of a better name than one that honors them. <br>
 
 Once I take some great photos of them, I’ll be sure to share them here.
 
