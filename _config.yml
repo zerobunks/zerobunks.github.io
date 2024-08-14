@@ -14,19 +14,19 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ZeroBunk Blog # the main title
+title: ZeroBunks Blog # the main title
 
-tagline: Personal blog with interests in cysec, web design, and software dev. # it will display as the sub-title
+tagline: Cybersecurity, Software Development, and Web Design. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blog with focused in cysec, web design, and software dev.
+  Personal blog focused in cyber security, web design, and software development.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://zerobunks.github.io"
 
 github:
-  username: zerobunk # change to your github username
+  username: zerobunks # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: bunks-n-rocks.png
+avatar: assets/img/bunks-n-rocks.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
